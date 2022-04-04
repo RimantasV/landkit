@@ -1,1 +1,1 @@
-# Starter file for bootstrap excercise
+# Starter file for bootstrap exercise
